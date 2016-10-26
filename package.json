@@ -1,0 +1,24 @@
+{
+  "name": "isim-halleri",
+  "version": "1.0.0",
+  "description": "isimlerin hallerine çekmenizi sağlayan bir fonksiyon",
+  "main": "isimHalleri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btk/isim-halleri.git"
+  },
+  "keywords": [
+    "isim",
+    "halleri",
+    "haller"
+  ],
+  "author": "Burak Tokak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btk/isim-halleri/issues"
+  },
+  "homepage": "https://github.com/btk/isim-halleri#readme"
+}
